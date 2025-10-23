@@ -1,4 +1,4 @@
-### ESO-SQP Optimizer:
+### Hybrid ESO-SQP Optimizer:
 
 A hybrid optimization framework that integrates an Enhanced Snake Optimizer (ESO) with Sequential Quadratic Programming (SQP)
 
