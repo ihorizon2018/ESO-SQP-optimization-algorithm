@@ -1,4 +1,4 @@
-### Evaluation on Mathematical Benchmarks
+### ESO-SQP Optimizer: A hybrid optimization framework that integrates an Enhanced Snake Optimizer (ESO) with Sequential Quadratic Programming (SQP)
 
 Eight benchmark mathematical functions are employed to evaluate the global search and convergence performance of the proposed ESO–SQP optimization algorithm. The test suite includes:
 
